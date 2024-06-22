@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Irtiza khalid</h1>
-<h3 align="center">A passionate full Stack Developer.</h3>
+<h3 align="center">Data Science Enthusiast,python,machine laerning.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irtiza-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="irtiza-khalid" /> </p>
 
-- 🌱 I’m currently learning **Flutter for iOS, Android and Data Science.**
-
-- 💬 Ask me about **Mobile App Development And coding.**
+- 🌱 I’m currently learning **Mchine learning and Data Science.**
 
 - 📫 How to reach me **irtiza786khalid@gmail.com**
 
