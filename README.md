@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Irtiza khalid, AI Engineer</h1>
-<h3 align="center">AI(GenAI) and Data Science Enthusiast,python,machine learning.</h3>
+<h3 align="center">AI(GenAI),ML,langchain,MCP,LLM,Multimodal,RAGs,Transformers,finetunning,huggingface,Prompt engineering.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
